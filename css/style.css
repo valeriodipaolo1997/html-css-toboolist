@@ -1,0 +1,30 @@
+/*general*/
+
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+/*header*/
+
+.logo {
+    padding: 1rem;
+    
+    
+}
+
+img {
+    vertical-align: middle;
+}
+
+span {
+    font-size: 3rem;
+    vertical-align: middle;
+    font-weight: bold;
+}
+
+/*main*/
+
+
+
