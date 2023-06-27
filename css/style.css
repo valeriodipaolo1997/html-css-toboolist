@@ -6,8 +6,16 @@
     box-sizing: border-box;
 }
 
+
+body {
+    background-color: azure;
+}
+
 /*header*/
 
+header {
+    background-color: white;
+}
 .logo {
     padding: 1rem;
     
@@ -26,5 +34,11 @@ span {
 
 /*main*/
 
-
+.site_main {
+    background-color: white;
+    margin-left: 3rem;
+}
+.button1 {
+    text-align: center;
+}
 
